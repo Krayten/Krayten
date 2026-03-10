@@ -1,4 +1,5 @@
-# 👨‍💻 Krayten — Informático apasionado por la automatización y la eficiencia
+# 👨‍💻 Krayten
+## Informático apasionado por la automatización y la eficiencia
 
 ¡Hola! Soy Krayten, informático con vocación técnica y mente curiosa. Me encanta explorar cómo la programación puede simplificar tareas, automatizar procesos y dar vida a ideas complejas. Trabajo con herramientas que me permiten construir desde scripts ligeros hasta entornos completos de desarrollo y despliegue.
 
@@ -52,7 +53,8 @@
 
 ---
 --->
-> *“La programación no es solo escribir código. Es entender problemas, diseñar soluciones y construir herramientas que funcionen bien y duren.”*
+
+*“La programación no es solo escribir código. Es entender problemas, diseñar soluciones y construir herramientas que funcionen bien y duren.”*
 
 <!---
 Krayten/Krayten is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
